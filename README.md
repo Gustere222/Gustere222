@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on IT
-- 📫 How to reach me 
+- 📫 How to reach me roberttrita2906@gmail.com
 
 <!---
 Gustere222/Gustere222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
